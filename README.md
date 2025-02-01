@@ -1,6 +1,6 @@
 # Shark Engine
 
 ## Screenshot:
-![Gameplay](./assets/game.png)
+![Gameplay](./assets/gameplay.png)
 
 
